@@ -33,6 +33,10 @@
   }
 }
 
+nav + .container, nav + .container-fluid {
+  margin-top: 20px;
+}
+
 .card {
   padding: 2em;
 }
