@@ -1,4 +1,4 @@
-### React Tutorial CRUD Application
+# React Tutorial CRUD Application
 ## Overview
 
 This is a CRUD application I built using Spring Boot (Java) for the backend and React for the frontend.
